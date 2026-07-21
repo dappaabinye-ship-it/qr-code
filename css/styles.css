@@ -38,6 +38,7 @@ body {
     flex-direction: column;
     gap: 6px;
     margin-bottom: 8px;
+    font-family: "Outfit", "sans-serif";
 }
 
 .improve {
