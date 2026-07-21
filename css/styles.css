@@ -1,23 +1,24 @@
-body{
-  display:flex;
-  flex-direction:column;
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
-.everything{
-  flex:1;
+.everything {
+    flex: 1;
 }
 
-.wbox{
-  width:300px;
+.wbox {
+    width: 300px;
 }
 
-.qr{
-  width:100%;
-  height:auto;
-  border-radius:10px;
+.qr {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
 }
 
-.image{
-  padding:0px;
-  margin:0px;
+.image {
+    padding: 0px;
+    margin: 0px;
 }
